@@ -1,0 +1,6 @@
+.ids_ban{z-index:1000;position: absolute;bottom: 30px;right:0;width:170px;height: 130px;background: url('http://www.raymedical.com/wp-content/uploads/2017/01/ids_ban.png') no-repeat center;}
+.close{position: absolute;top:15px;right:5px;width:20px;height: 20px;}
+@media screen and (max-width:999px) {
+    .ids_ban{width:340px;height: 260px;background: url('http://www.raymedical.com/wp-content/uploads/2017/01/ids_ban@2X.png') no-repeat center;}
+    .close{top:30px;right:5px;width:40px;height: 40px;}
+}
